@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/background.png","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/background.xnb","TextureProcessor","Texture2DContent",6642500,33177685,0.7653631
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/lighteffect.fx","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/lighteffect.xnb","EffectProcessor","CompiledEffectContent",749,812,0.2237039
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/lightMask.png","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/lightMask.xnb","TextureProcessor","Texture2DContent",41443,262229,0.0078018
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/MenuSpriteSheet.png","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/MenuSpriteSheet.xnb","TextureProcessor","Texture2DContent",122596,5760085,0.1288472
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/MyFont.spritefont","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/MyFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.069555
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/platform.png","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/platform.xnb","TextureProcessor","Texture2DContent",755,25685,0.0017668
+"D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/VictimsAndVillagers.png","D:/Profiles/dmg4878/source/repos/LIU/LIU/Content/bin/Windows/VictimsAndVillagers.xnb","TextureProcessor","Texture2DContent",24524,2555989,0.0611563

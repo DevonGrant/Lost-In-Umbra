@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LIU</id>
+    <version>1.0.0</version>
+    <authors>LIU</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.0.1641" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.WindowsDX" version="3.8.0.1641" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/background.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/lighteffect.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/lightMask.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/MenuSpriteSheet.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/MyFont.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/platform.xnb" buildAction="Content" />
+      <files include="any/netcoreapp3.1/Content/bin/Windows/Content/VictimsAndVillagers.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\bin\Debug\netcoreapp3.1\LIU.runtimeconfig.json" target="lib\netcoreapp3.1\LIU.runtimeconfig.json" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\bin\Debug\netcoreapp3.1\LIU.dll" target="lib\netcoreapp3.1\LIU.dll" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\background.xnb" target="content\Content\bin\Windows\Content\background.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\background.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\background.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\lighteffect.xnb" target="content\Content\bin\Windows\Content\lighteffect.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\lighteffect.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\lighteffect.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\lightMask.xnb" target="content\Content\bin\Windows\Content\lightMask.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\lightMask.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\lightMask.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\MenuSpriteSheet.xnb" target="content\Content\bin\Windows\Content\MenuSpriteSheet.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\MenuSpriteSheet.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\MenuSpriteSheet.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\MyFont.xnb" target="content\Content\bin\Windows\Content\MyFont.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\MyFont.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\MyFont.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\platform.xnb" target="content\Content\bin\Windows\Content\platform.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\platform.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\platform.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\VictimsAndVillagers.xnb" target="content\Content\bin\Windows\Content\VictimsAndVillagers.xnb" />
+    <file src="D:\Profiles\dmg4878\source\repos\LIU\LIU\Content\bin\Windows\Content\VictimsAndVillagers.xnb" target="contentFiles\any\netcoreapp3.1\Content\bin\Windows\Content\VictimsAndVillagers.xnb" />
+  </files>
+</package>

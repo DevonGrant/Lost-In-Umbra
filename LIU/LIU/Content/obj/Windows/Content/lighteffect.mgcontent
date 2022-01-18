@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Profiles/dmg4878/Source/Repos/Lost-In-Umbra/LIU/LIU/Content/lighteffect.fx</SourceFile>
+  <SourceTime>2019-04-29T14:06:18-04:00</SourceTime>
+  <DestFile>D:/Profiles/dmg4878/Source/Repos/Lost-In-Umbra/LIU/LIU/Content/bin/Windows/Content/lighteffect.xnb</DestFile>
+  <DestTime>2022-01-18T12:52:51.9334979-05:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,1 @@
+Game is located at: LIU\LIU\bin\Debug\netcoreapp3.1\LIU.exe
